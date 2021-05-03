@@ -25,7 +25,7 @@ SECRET_KEY = '$yrr^d2h03vmv%4r)0nt6jc#0-vp#68gy*mcunln3tb!nr-ot^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['teammateapp.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
