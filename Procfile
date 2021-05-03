@@ -1,1 +1,1 @@
-web: gunicorn TeammateDB.wsgi:application --log-file -
+web: gunicorn TeammateDB.wsgi --log-file -
