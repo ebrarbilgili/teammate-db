@@ -85,9 +85,7 @@ DATABASES = {
         'ENGINE': 'djongo',
         'NAME': 'users',
         'CLIENT': {
-            'host': 'mongodb+srv://ebrarbilgili:Se223344@cluster0.1pk3a.mongodb.net/users',
-            'username': 'ebrarbilgili',
-            'password': 'Se223344',
+
             'authMechanism': 'SCRAM-SHA-1'
         }
     }
